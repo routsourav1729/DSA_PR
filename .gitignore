@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!README.md
+
+# ...and not the practice directory...
+!practice/
+
+# ...and all files under practice recursively
+!practice/**
