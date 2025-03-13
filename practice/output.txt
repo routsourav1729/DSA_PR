@@ -1,6 +1,1 @@
-1: nihar
-2: akash
-3: bignesh
-4: rajesh
-
-4:rajesh
+(4,9) (5,9) (1,6) (3,6) (2,5) 
